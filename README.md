@@ -1,6 +1,7 @@
 # hello-world
 
-Hello sapient stardusts!
+Hello sapient stardusts! 
+Here's a parody of a particularly favourite line from an anime:
 
 You are not the bone of your sword,
 
